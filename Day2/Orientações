@@ -1,4 +1,11 @@
 #Trata-se de um repositório Python para o desafio do 100daysOfCode, onde o objetivo é resolver problemas de programação em Python. Para isso, foram criados arquivos separados para cada dia do desafio, onde cada arquivo contém uma função que resolve o problema proposto. Além disso, foi criado um arquivo main.py que importa as funções dos arquivos do dia e executa-as.
 # O desafio é baseado no Replit!
 
-#Desafio 1: Usaremos o comando print para imprimir uma mensagem na tela, essa mensagem precisa ter quebras de linhas.
+#Desafio 2: Vamos trabalhar com o comando Input e variáveis, onde coletaremos os seguintes dados do usuário:
+# - Nome
+# - Idade
+# - Comida Favorita
+# - Genero Musical Favorito
+# - Onde mora
+
+# Depois disso, utilizaremos o comando print para imprimir uma mensagem quebrando o texto conforme exercícios do dia 1.
