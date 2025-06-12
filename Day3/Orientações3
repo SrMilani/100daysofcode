@@ -1,0 +1,6 @@
+#Trata-se de um repositório Python para o desafio do 100daysOfCode, onde o objetivo é resolver problemas de programação em Python. Para isso, foram criados arquivos separados para cada dia do desafio, onde cada arquivo contém uma função que resolve o problema proposto. Além disso, foi criado um arquivo main.py que importa as funções dos arquivos do dia e executa-as.
+# O desafio é baseado no Replit!
+
+#Desafio2: Nesta aula utilizamos concatenação de strings, onde o objetivo é criar uma função que recebe duas strings e retorna a concatenação delas. Além disso, foi utilizado o método strip() para remover espaços em branco no início e no final da string.
+#Aproveitei e utilizei os comandos de input, para o usuário informar aquilo que estamos pedindo.
+# A ideia inicial é de acordo conforme o avanço no curso, ir adicionando mais funcionalidade e complexidade aos códigos.
